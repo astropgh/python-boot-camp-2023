@@ -28,7 +28,6 @@ conda install -c conda-forge jupyterlab
 ```python
 import numpy
 import scipy
-import astropy
 import matplotlib
 ```
 4. Type into the iPython shell the word `paste`, and press enter.
@@ -37,18 +36,19 @@ import matplotlib
 If you are having difficulties with installation, please do not hesitate to reach out to Brett Andrews on Slack or via email.
 
 ### Instructors
-- [Brett Andrews](https://bretthandrews.github.io/): Python Basics
+- [Brett Andrews](https://bretthandrews.github.io/)
 - [Alan Pearl](https://alanpearl.github.io/)
-- [Emily Biermann](https://embiermann.github.io/)
 - [Travis Court](https://courtt.github.io/)
 - [David Setton](https://davidjsetton.github.io/)
-- [Collin McLeod](https://collinmcleod.github.io/)
-- [Lina Florez](https://linaflorez.github.io/)
 - [Sedona Price](https://sedonaprice.github.io/)
 - [Marcell Howard](https://marcellhoward.github.io/)
+- [Emily Biermann](https://embiermann.github.io/)
+- [Collin McLeod](https://collinmcleod.github.io/)
+- [Lina Florez](https://linaflorez.github.io/)
 - [Helena Richie](https://helenarichie.github.io/)
 - [Yoki Salcedo](https://yoquelbinsalcedo.github.io/)
-
+- [Yasha Kaushal](https://yashakaushal.github.io/)
+- [Bob Caddy](https://robertcaddy.com/)
 
 ### Schedule
 
@@ -57,7 +57,7 @@ If you are having difficulties with installation, please do not hesitate to reac
 | 10:00-11:15 | Python Basics | Numpy I | Numpy III |
 | 11:45-1:00 | Data Structures | Numpy I | Numpy III |
 | 2:00-3:15 | Functions and Modules | Numpy II | Numpy IV |
-| 3:45-5:00 | Matplotlib I | Numpy II | Numpy IV |
+| 3:45-5:00 | Matplotlib | Numpy II | Numpy IV |
 
 
 <a href="url"><img style="padding: 0px 20px;" src="https://github.com/astropgh/python-boot-camp-2021/blob/main/etc/NSF_4-Color_bitmap_Logo.png?raw=true" align="left" height="128" width="128"></a>
