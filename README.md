@@ -59,6 +59,13 @@ If you are having difficulties with installation, please do not hesitate to reac
 | 2:00-3:15 | Functions and Modules | Numpy II | Numpy IV |
 | 3:45-5:00 | Matplotlib | Numpy II | Numpy IV |
 
+| Time (EDT) | Monday (5/22) | Tuesday (5/23) | Wednesday (5/24) |
+|:-----:|:-----:|:-----:|:-----:|
+| 10:00-11:15 | Python Basics (Yasha) | Numpy I (Yoki) | Numpy III (Collin) |
+| 11:45-1:00 | Data Structures (Bob) | Numpy I (Alan) | Numpy III (Emily) |
+| 2:00-3:15 | Functions and Modules (Marcell) | Numpy II (Sedona) | Numpy IV (Helena) |
+| 3:45-5:00 | Matplotlib (Lina) | Numpy II (Travis) | Numpy IV (David) |
+
 
 <a href="url"><img style="padding: 0px 20px;" src="https://github.com/astropgh/python-boot-camp-2021/blob/main/etc/NSF_4-Color_bitmap_Logo.png?raw=true" align="left" height="128" width="128"></a>
 
