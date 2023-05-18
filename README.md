@@ -14,7 +14,7 @@ Welcome to the 2023 AstroPGH Python Boot Camp for summer undergraduate students 
 #### Python
 Please install Python 3 before the Boot Camp. I recommend using the [Anaconda](https://www.anaconda.com/products/individual) package manager **_for Python 3.10_** and then install the following packages in the terminal:
 ```bash
-conda install numpy scipy astropy matplotlib jupyter ipython
+conda install numpy scipy astropy matplotlib jupyter ipython pandas
 conda install -c conda-forge jupyterlab
 ```
 
@@ -30,6 +30,7 @@ import numpy
 import scipy
 import matplotlib
 import astropy
+import pandas
 ```
 4. Type into the iPython shell the word `paste`, and press enter.
 5. If no errors are raised, you're ready for bootcamp. You may close the terminal window.
