@@ -38,35 +38,28 @@ import pandas
 If you are having difficulties with installation, please do not hesitate to reach out to Brett Andrews on Slack or via email.
 
 ### Instructors
-- [Brett Andrews](https://bretthandrews.github.io/)
-- [Alan Pearl](https://alanpearl.github.io/)
-- [Travis Court](https://courtt.github.io/)
-- [David Setton](https://davidjsetton.github.io/)
-- [Sedona Price](https://sedonaprice.github.io/)
-- [Marcell Howard](https://marcellhoward.github.io/)
-- [Emily Biermann](https://embiermann.github.io/)
-- [Collin McLeod](https://collinmcleod.github.io/)
-- [Lina Florez](https://linaflorez.github.io/)
-- [Helena Richie](https://helenarichie.github.io/)
-- [Yoki Salcedo](https://yoquelbinsalcedo.github.io/)
-- [Yasha Kaushal](https://yashakaushal.github.io/)
-- [Bob Caddy](https://robertcaddy.com/)
+- [Brett Andrews](https://bretthandrews.github.io/): Organizer
+- [Yasha Kaushal](https://yashakaushal.github.io/): Python Basics
+- [Bob Caddy](https://robertcaddy.com/): Data Structures
+- [Marcell Howard](https://marcellhoward.github.io/): Functions and Modules
+- [Lina Florez](https://linaflorez.github.io/): Matplotlib
+- [Yoki Salcedo](https://yoquelbinsalcedo.github.io/): Numpy 1a
+- [Alan Pearl](https://alanpearl.github.io/): Numpy 1b
+- [Travis Court](https://courtt.github.io/): Numpy 2a
+- [Sedona Price](https://sedonaprice.github.io/): Numpy 2b
+- [Collin McLeod](https://collinmcleod.github.io/): Numpy 3a
+- [Emily Biermann](https://embiermann.github.io/): Numpy 3b
+- [Helena Richie](https://helenarichie.github.io/): Numpy 4a
+- [David Setton](https://davidjsetton.github.io/): Numpy 4b
 
 ### Schedule
 
 | Time (EDT) | Monday (5/22) | Tuesday (5/23) | Wednesday (5/24) |
 |:-----:|:-----:|:-----:|:-----:|
-| 10:00-11:15 | Python Basics | Numpy I | Numpy III |
-| 11:45-1:00 | Data Structures | Numpy I | Numpy III |
-| 2:00-3:15 | Functions and Modules | Numpy II | Numpy IV |
-| 3:45-5:00 | Matplotlib | Numpy II | Numpy IV |
-
-| Time (EDT) | Monday (5/22) | Tuesday (5/23) | Wednesday (5/24) |
-|:-----:|:-----:|:-----:|:-----:|
-| 10:00-11:15 | Python Basics (Yasha) | Numpy I (Yoki) | Numpy III (Collin) |
-| 11:45-1:00 | Data Structures (Bob) | Numpy I (Alan) | Numpy III (Emily) |
-| 2:00-3:15 | Functions and Modules (Marcell) | Numpy II (Travis) | Numpy IV (Helena) |
-| 3:45-5:00 | Matplotlib (Lina) | Numpy II (Sedona) | Numpy IV (David) |
+| 10:00-11:15 | Python Basics | Numpy 1a | Numpy 3a |
+| 11:45-1:00 | Data Structures | Numpy 1b | Numpy 3b |
+| 2:00-3:15 | Functions and Modules | Numpy 2a | Numpy 4a |
+| 3:45-5:00 | Matplotlib | Numpy 2b | Numpy 4b |
 
 
 <a href="url"><img style="padding: 0px 20px;" src="https://github.com/astropgh/python-boot-camp-2021/blob/main/etc/NSF_4-Color_bitmap_Logo.png?raw=true" align="left" height="128" width="128"></a>
