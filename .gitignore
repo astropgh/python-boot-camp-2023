@@ -58,3 +58,9 @@ distribute-*.tar.gz
 
 # Mac OSX
 .DS_Store
+notebooks/03-NumpyBasics/data/manga_cube_full.fits
+notebooks/03-NumpyBasics/data/img/ifu_pseudoslit_v1.png
+
+
+# ipynb checkpoints
+.ipynb_checkpoints
