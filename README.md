@@ -47,8 +47,8 @@ If you are having difficulties with installation, please do not hesitate to reac
 - [Alan Pearl](https://alanpearl.github.io/): Numpy 1b
 - [Travis Court](https://courtt.github.io/): Numpy 2a
 - [Sedona Price](https://sedonaprice.github.io/): Numpy 2b
-- [Collin McLeod](https://collinmcleod.github.io/): Numpy 3a
-- [Emily Biermann](https://embiermann.github.io/): Numpy 3b
+- [Emily Biermann](https://embiermann.github.io/): Numpy 3a
+- [Collin McLeod](https://collinmcleod.github.io/): Numpy 3b
 - [Helena Richie](https://helenarichie.github.io/): Numpy 4a
 - [David Setton](https://davidjsetton.github.io/): Numpy 4b
 
